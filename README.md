@@ -1,4 +1,4 @@
-# Sistemas de partículas interactivas — Primer cuatrimestre de 2014
+# Sistemas de Particulas Interactivas — Primer cuatrimestre de 2014
 
 ## Prácticas
 
@@ -9,13 +9,6 @@
 ## Otros materiales
 
 - [Final](final.pdf)
-
-## Bibliografía
-
-- L. Bertini et al. Stochastic interacting particle systems out of equilibrium , 2007.
-- H.O. Georgii. Gibbs Measures and Phase Transitions, de Gruyter 1988.
-- C. Kipnis, C. Landim. Scaling limits of Interacting Particle Systems, Springer 1999.
-- T.M. Liggett. Interacting Particle Systems - An Introduction , 2004.
 
 ## Página original
 
